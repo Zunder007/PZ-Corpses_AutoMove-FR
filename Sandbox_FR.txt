@@ -1,0 +1,12 @@
+Sandbox_FR = {
+
+    
+	Sandbox_CAMmod = "Corpses auto move",
+
+	Sandbox_CAMmodTimedActionDigGrave = "Pile maximale de cadavres",
+	Sandbox_CAMmodTimedActionDigGrave_tooltip = "C'est la quantité de cadavres qu'on peut empiler sur une même pile. (redémarrage nécessaire)",
+
+	Sandbox_CAMmodmaximumCorpsePile = "Pile maximale de cadavres",
+	Sandbox_CAMmodmaximumCorpsePile_tooltip = "C'est la quantité de cadavres qu'on peut empiler sur une même pile. (redémarrage nécessaire)",
+
+}
